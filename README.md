@@ -19,7 +19,8 @@ Model performance is evaluated using ROC-AUC and other classification metrics. P
 - XGBoost, LightGBM, CatBoost
 
 ## Dataset
-The dataset used for this project is sourced from Kaggle.
+The dataset used in this project is sourced from the Kaggle Playground Series Season 5, Episode 12 (S5E12) diabetes prediction challenge. 
+It is a synthetically generated dataset based on the Diabetes Health Indicators dataset, with the target being the probability of diagnosed diabetes.
 
 ## Conclusion
 This project demonstrates the application of machine learning algorithms to a real-world healthcare problem, highlighting model comparison and ensemble learning for improved prediction performance.
